@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi I'm Alva 👋
 
+🔭 I’m currently working on InterviewSpark AI, a serverless mock interview platform.<br/>
+🌱 I’m currently learning Nest.js and AWS.<br/>
+
+[![Alva's GitHub stats](https://github-readme-stats.vercel.app/api?username=pisoc912&show_icons=true&theme=radical)](https://github.com/pisoc912/github-readme-stats)
 <!--
 **pisoc912/pisoc912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
