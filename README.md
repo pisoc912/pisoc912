@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Alva 👋<br>🔭 I’m currently working on InterviewSpark AI, a serverless mock interview platform.<br>🌱 I’m currently learning Nest.js and AWS.
+Hi I'm Alva 👋<br>🔭 I’m currently working on InterviewSpark AI, a serverless mock interview platform.<br>🌱 I’m currently learning Nest.js and AWS.<br> 🧚‍♀️ I live by the motto: “Every day is a learning day.”
 
 
 ## 🌐 Socials:
